@@ -1,6 +1,5 @@
 import { HeroSection } from "@/components/hero-section"
-import { NeuralGraphDemo } from "@/components/neural-graph-demo"
-import { CTASection } from "@/components/cta-section"
+import CTASection from "@/components/cta-section";
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 
